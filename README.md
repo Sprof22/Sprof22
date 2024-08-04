@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sprof22 (Richmond Elaigwu)
-- 👀 I’m interested in FrontEnd Development, REACTjs, VUEjs, NextJs, 
-- 🌱 I’m currently learning Unit Testing in NextJs and Golang
+- 👀 I’m interested in Fullstack Development, Javascript, Golang, REACTjs, VUEjs, NextJs, Nuxtjs, NestJs, NodeJs
+- 🌱 I’m currently learning Hexagonal architecture implementation in golang
 - 💞️ I’m looking to collaborate on providing creative solutions...
 - 📫 How to reach me richmondelaigwu@gmail.com, 
 
